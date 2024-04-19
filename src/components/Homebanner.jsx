@@ -10,11 +10,11 @@ function Homebanner() {
   return (
      <div className='container-fluid bg-black'>
     <Carousel >
-
+ 
       <Carousel.Item> 
         <img className='w-100' src='./images/bgimg4.jpg' alt='loading' />
           <div className='cr1 CarouselCaption '>
-              <h2> <b>Hi  I  Am  Manoj </b> </h2>
+              <h2> <b><span style={{fontSize:'5vw'}}>Hi  I  Am</span> <span style={{color:'blue'}} >Manoj</span>  </b> </h2>
               <h4 > <b> I am a full stack developer.....</b> </h4>
               <p> <h6> <b> Revolutionizing the way we live, work and play.</b></h6> </p>
            </div>                
