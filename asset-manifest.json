@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R-portfoli/static/css/main.a8b1dd2d.css",
+    "main.js": "/R-portfoli/static/js/main.59efaf05.js",
+    "index.html": "/R-portfoli/index.html",
+    "main.a8b1dd2d.css.map": "/R-portfoli/static/css/main.a8b1dd2d.css.map",
+    "main.59efaf05.js.map": "/R-portfoli/static/js/main.59efaf05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b1dd2d.css",
+    "static/js/main.59efaf05.js"
+  ]
+}
