@@ -5,10 +5,15 @@
     
     right: 20%;
 }
+.cr{
+    background-color: black;
+    width: 100vw;
+    height: 70vh;
+}
 .cr1 {
     color: rgb(247, 2, 2);   
     text-align: center;
-    background-color: rgb(209, 172, 128);
+   
 }
 .cr1 h2{
     font-size: 7vw;
@@ -20,11 +25,13 @@
 .cr1 h6{
     font-size: 2vw;
 }
+
 .cr2{
     position: absolute;
     top: 8%;
     left:8%;
     right: 3%;
+   
 }
 .cr2 h4{
     color: rgb(200, 255, 3);
@@ -37,6 +44,7 @@
     font-size: 2vw;
     text-wrap: balance;
 }
+
 .cr3{
     position: absolute;
     top: 40%;
@@ -47,11 +55,13 @@
 .cr3 h3{
     font-weight: bold;
     font-size: 5vw;
-    color: rgb(200, 255, 3);
+    color: rgb(3, 41, 255);
     text-align: center;
     align-items: center;
 }
-
+.cr3img{
+   padding-left: 15vw; 
+}
 .iconhead{
     color: hwb(305 7% 7%);
     font-size: 2.5vw;

@@ -9,9 +9,9 @@ const Education = () => {
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'center',
-      
+         
     }} >
-  <img className='w-50 py-5' src="./images/BTECH CERT.jpg"  alt="loading"/> 
+  <img className='w-50 py-5' src="./img/BTECHCERT.jpg"  alt="loading"/> 
   </div>
   </div>
   );

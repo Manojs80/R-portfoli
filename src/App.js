@@ -7,7 +7,6 @@ import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
-import Skills from "./components/Skills";
 import Icons from "./components/Icons";
 import Projects from "./components/Projects";
  
@@ -20,8 +19,7 @@ function App() {
       <Routes>
         <Route path="/"  element={<Home />} />
         <Route path="/Contact"  element={<><Contact /><Icons /></>} />
-        <Route path="/Skills"  element={<><Skills /><Icons /></>} />
-        <Route path="/Resume"  element={<><Resume/><Icons /></>} />
+        <Route path="/Resume"  element={<><Resume /><Icons /></>} />
         <Route path="/Experience"  element={<><Experience /><Icons /></>} />
         <Route path="/Education"  element={<><Education /><Icons /></>} />
         <Route path="/Projects"  element={<><Projects /><Icons /></>} />
