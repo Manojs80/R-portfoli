@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/R-portfoli/static/css/main.a8b1dd2d.css",
-    "main.js": "/R-portfoli/static/js/main.59efaf05.js",
+    "main.css": "/R-portfoli/static/css/main.f9f26449.css",
+    "main.js": "/R-portfoli/static/js/main.f4701da1.js",
+    "static/media/bgimg1.jpg": "/R-portfoli/static/media/bgimg1.b8d94eb4aacaf96affae.jpg",
+    "static/media/language.jpg": "/R-portfoli/static/media/language.9f1ec2f9c0ab951f9166.jpg",
+    "static/media/BTECHCERT.jpg": "/R-portfoli/static/media/BTECHCERT.a32067b3bfb81cda1d6b.jpg",
+    "static/media/resume.pdf": "/R-portfoli/static/media/resume.67c7047ba1d980b7f5d8.pdf",
     "index.html": "/R-portfoli/index.html",
-    "main.a8b1dd2d.css.map": "/R-portfoli/static/css/main.a8b1dd2d.css.map",
-    "main.59efaf05.js.map": "/R-portfoli/static/js/main.59efaf05.js.map"
+    "main.f9f26449.css.map": "/R-portfoli/static/css/main.f9f26449.css.map",
+    "main.f4701da1.js.map": "/R-portfoli/static/js/main.f4701da1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8b1dd2d.css",
-    "static/js/main.59efaf05.js"
+    "static/css/main.f9f26449.css",
+    "static/js/main.f4701da1.js"
   ]
 }
