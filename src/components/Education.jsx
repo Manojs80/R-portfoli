@@ -1,4 +1,5 @@
 import React from 'react'
+import certificate from './BTECHCERT.jpg'
 
 
 const Education = () => {
@@ -11,7 +12,7 @@ const Education = () => {
       justifyContent: 'center',
          
     }} >
-  <img className='w-50 py-5' src="./img/BTECHCERT.jpg"  alt="loading"/> 
+  <img className='w-50 py-5' src={certificate}  alt="loading"/> 
   </div>
   </div>
   );

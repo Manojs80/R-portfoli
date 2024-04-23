@@ -1,12 +1,13 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap'
+import resume from './resume.pdf'
 
 const Resume = () => {
   return (
       <div className='container-fluid'>
       <Row className='justify-content-center bg-black' >
         <Col md={10}>
-        <iframe src="./pdf/resume.pdf" width="100%" height="700vw" />
+        <iframe src={resume} width="100%" height="700vw" />
         </Col>
         </Row>
         </div>

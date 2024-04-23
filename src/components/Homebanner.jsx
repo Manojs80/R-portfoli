@@ -1,6 +1,8 @@
 
  import Carousel from 'react-bootstrap/Carousel';
 import "./Homebanner.css";
+import img1 from './bgimg1.jpg'
+import img2 from './language.jpg'
 import { Col, Row } from 'react-bootstrap';
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"></link>
 
@@ -24,7 +26,7 @@ function Homebanner() {
 
       <Carousel.Item>
       <div className='cr'>
-      <img className='w-100' src="https://image.freepik.com/free-vector/gold-stars-black-background_126980-37.jpg"  alt="loading"/> </div>
+      <img className='w-100' src={img1}  alt="loading"/> </div>
        <div className='cr2'>
        <h4>ABOUT ME</h4>
         <p><h6>Hi, I am Manoj s and I work as a web developer.I am a software engineer who loves to create websites as well as apps for people. I think that people should look at the bigger picture when they are building something. I love to work in groups where everyone can voice their opinions and ideas.In the end, I love to work towards one goal where in the end we all can contribute towards making a good website.In my free time, you can see me listening to songs and binge-watching series when I am not working with my clients</h6></p>
@@ -32,8 +34,8 @@ function Homebanner() {
        </Carousel.Item>
 
       <Carousel.Item>
-        <div className='cr cr3img'>
-      <img className='w-75 ' src="https://talentbattle.in/Files/C4U_Images/C4U_CKEDITOR_IMAGES/IMG9854_fullstack%20logos%20onlu.png"  alt="loading"/> </div>
+        <div className='cr'>
+      <img className='w-100 ' src={img2}  alt="loading"/> </div>
           <div className='cr3'>
             <h3>SKILLS</h3>
             </div>           
@@ -80,6 +82,8 @@ export default Homebanner;
 
         <div className='post2'> </div>
         https://mehtaint.com/wp-content/uploads/2018/11/wall-leaves-wooden-207301.jpg
+        "https://image.freepik.com/free-vector/gold-stars-black-background_126980-37.jpg"
+        "https://talentbattle.in/Files/C4U_Images/C4U_CKEDITOR_IMAGES/IMG9854_fullstack%20logos%20onlu.png"
 */
 
 

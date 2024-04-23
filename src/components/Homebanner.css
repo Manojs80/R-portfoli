@@ -8,7 +8,7 @@
 .cr{
     background-color: black;
     width: 100vw;
-    height: 70vh;
+    height: 71vh;
 }
 .cr1 {
     color: rgb(247, 2, 2);   
@@ -47,21 +47,20 @@
 
 .cr3{
     position: absolute;
-    top: 40%;
-    left: 0%;
-    bottom: 0%;
-    right: 0%;
+    top: 45%;
+    left: 30%;
+    bottom: 40%;
+    right: 30%;
 }
 .cr3 h3{
     font-weight: bold;
     font-size: 5vw;
-    color: rgb(3, 41, 255);
+    color:  rgb(200, 255, 3);
     text-align: center;
     align-items: center;
 }
-.cr3img{
-   padding-left: 15vw; 
-}
+
+
 .iconhead{
     color: hwb(305 7% 7%);
     font-size: 2.5vw;
